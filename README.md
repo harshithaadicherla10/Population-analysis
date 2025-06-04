@@ -12,7 +12,7 @@ This project explores global population trends using World Bank data from 1960 t
 ![Bar Chart](top10_population_2022.png)
 
 ### Population Distribution Histogram
-![Histogram](population_distribution.png)
+![Histogram](Population_Distribution.png)
 
 ## 🧰 Tools Used
 - Python
